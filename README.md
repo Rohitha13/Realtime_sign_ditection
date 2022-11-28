@@ -29,11 +29,7 @@ The sign language  custom file contains code for creation of dataset folders, ca
 
 gui.py contains the code for our GUI which includes add, back, clear buttons to help the user make the sentence. We also have a button to read the whole sentence using GTTS. I have also attached the models which aren't very accurate and contain data only for A-E. you can add training and testing images by changing the mode in sign language custom file and train your own model.
 
-To run the gui - python gui.py
 
-output:
-
-![image](https://user-images.githubusercontent.com/88571564/167299918-06f088c6-b989-41fa-bcf7-7e7deabb5fcf.png)
    
    
    
